@@ -1,0 +1,3 @@
+IIFE Function : it is to create a scope that is hidden from outside scope where we can safely put varible , and wuit hthis we obtain data privacy 
+                  
+                and also donot interfere with other variable in aa global context.

@@ -1,0 +1,1 @@
+ Arrow functions shares the lexical 'this' keyword from it's surrounding

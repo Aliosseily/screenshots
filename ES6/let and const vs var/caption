@@ -1,0 +1,6 @@
+let can be changed 
+const cannot be changed 
+
+var are function scoped
+
+let and const are block scoped

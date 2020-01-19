@@ -1,0 +1,5 @@
+   1- Prmimitve : variable containing primitive , hold the data inside of the variable it self
+
+
+   2- Objects : variable associated with objects , do not actually contain the object , but instead they contain a refference to the place in memory
+      where the object sets (object is stored). we donot pass the object to the function , but only the refference that points to that object.   

@@ -1,0 +1,12 @@
+Rest Parameters : allow us to pass an arbitrary number of arguments into a function . and use these arguments in this function .
+
+Rest Parameters are opposite to spread operator .
+
+Spread Operator take an array and transform it into a single values.
+
+Rest Parameters receive a couple of single values and transform them into an array when we call a function with multiple parameters
+
+
+The big differencs between Rest Parameters and Spread Operator is the place we use each of them . the spread operator is used in the function call , 
+
+while the rest parameters is used in the function decoration to accept arbitrary number of parameters
